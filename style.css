@@ -156,7 +156,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 22rem 5rem 5rem 5rem;
-    background-image: url('./Images/heroimage.png');
+    background-image: url('./images/heroimage.png');
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 1.5rem;
@@ -387,7 +387,7 @@
 .card-image {
     width: 100%;
     height: 28rem;
-    background-image: url(./Images/31643.jpg);
+    background-image: url(./images/31643.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -397,15 +397,15 @@
 }
 
 .crd-img-2 {
-    background-image: url(./Images/2151664678.jpg);
+    background-image: url(./images/2151664678.jpg);
 }
 
 .crd-img-3 {
-    background-image: url(./Images/33646.jpg);
+    background-image: url(./images/33646.jpg);
 }
 
 .crd-img-4 {
-    background-image: url(./Images/11013.jpg);
+    background-image: url(./images/11013.jpg);
 }
 
 .card-header {
@@ -635,7 +635,7 @@
 .pp-card-image {
     width: 100%;
     height: 28rem;
-    background-image: url(./Images/31643.jpg);
+    background-image: url(./images/31643.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -645,27 +645,27 @@
 }
 
 .crd-img-5 {
-    background-image: url(./Images/arthur-humeau-3xwdarHxHqI-unsplash.jpg);
+    background-image: url(./images/arthur-humeau-3xwdarHxHqI-unsplash.jpg);
 }
 
 .crd-img-6 {
-    background-image: url(./Images/yu-kato-cddaZDt6uRw-unsplash.jpg);
+    background-image: url(./images/yu-kato-cddaZDt6uRw-unsplash.jpg);
 }
 
 .crd-img-7 {
-    background-image: url(./Images/harshil-gudka-kfxEUCTUeyg-unsplash.jpg);
+    background-image: url(./images/harshil-gudka-kfxEUCTUeyg-unsplash.jpg);
 }
 
 .crd-img-8 {
-    background-image: url(./Images/337.jpg);
+    background-image: url(./images/337.jpg);
 }
 
 .crd-img-9 {
-    background-image: url(./Images/2151664655.jpg);
+    background-image: url(./images/2151664655.jpg);
 }
 
 .crd-img-10 {
-    background-image: url(./Images/15793.jpg);
+    background-image: url(./images/15793.jpg);
 }
 
 
